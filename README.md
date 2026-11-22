@@ -8,10 +8,6 @@
 Intelligent Waste Inspection & Recycling Stream Quality Control
 </h3>
 
-<p align="center">
-  <i>Waste Intelligence. Better Recycling Decisions.</i>
-</p>
-
 # EcoSort AI
 ## Intelligent Waste Inspection & Recycling Stream Quality Control
 
