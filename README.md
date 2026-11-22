@@ -1,4 +1,16 @@
-![Uploading image.png…]()
+<p align="center">
+  <img src="ecosort-logo.png" alt="EcoSort AI Logo" width="320">
+</p>
+
+<h1 align="center">EcoSort AI</h1>
+
+<h3 align="center">
+Intelligent Waste Inspection & Recycling Stream Quality Control
+</h3>
+
+<p align="center">
+  <i>Waste Intelligence. Better Recycling Decisions.</i>
+</p>
 
 # EcoSort AI
 ## Intelligent Waste Inspection & Recycling Stream Quality Control
